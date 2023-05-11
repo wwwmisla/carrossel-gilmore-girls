@@ -1,8 +1,8 @@
-# Girlmore Girls - Carrossel
+# Gilmore Girls - Carrossel
 
-![Visualização dos personagens de Girlmore Girls](./src/imagens/gg4.jpg)
+![Visualização dos personagens de Gilmore Girls](./src/imagens/gg4.jpg)
 
-Um carrossel de imagens da série Girlmore Girls. 
+Um carrossel de imagens da série Gilmore Girls. 
 
 # Tecnologias usadas
 
